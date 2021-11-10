@@ -4,9 +4,13 @@ author: "Halina Do-Linh"
 date: "11/10/2021"
 output: html_document
 ---
+## Team Members 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+- [Mia Forsline](https://github.com/miaforsline)
 
 - [Halina Do-Linh](https://hdolinh.github.io/)
+
+- [Paloma Cartwright](https://github.com/palomacartwright)
