@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 - [Mia Forsline](https://github.com/miaforsline)
 
-- [Halina Do-Linh](https://hdolinh.github.io/)
+- [Halina Do-Linh](https://github.com/hdolinh)
 
 - [Paloma Cartwright](https://github.com/palomacartwright)
