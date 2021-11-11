@@ -1,7 +1,5 @@
 ---
 title: "About"
-author: "Halina Do-Linh"
-date: "11/10/2021"
 output: html_document
 ---
 ## Team Members 
