@@ -1,0 +1,17 @@
+---
+title: "LA Tree Project Roadmap"
+author: "Paloma Cartwright, Halina Do-Linh, Mia Forsline"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This page contains our Roadmap from ZenHub. Two issues currently remain open until the completion of our project on December 3rd after we present our project to the class and finalize the write-up.
+
+The link to our repo with our current completed work can be found [here](https://github.com/la-tree/notebook).
+
+This image displays our progress as of November 22nd, 2021. 
+
+![](Remote%20Sensing%20Team%20Roadmap%202021-11-22.svg)
