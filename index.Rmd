@@ -3,7 +3,9 @@ title: "EDS 211 Group Project: Los Angeles County Tree Canopy Cover Analysis"
 author: "Paloma Cartwright, Halina Do-Linh, Mia Forsline"
 output: html_document
 ---
+
 [Our GitHub Repo](https://github.com/la-tree)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
